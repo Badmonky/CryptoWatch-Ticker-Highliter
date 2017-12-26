@@ -1,0 +1,26 @@
+.marker {
+    background-color: #dd9624;
+    font-weight: bold;
+    cursor: pointer;
+  }
+.hilite {
+    background: yellow;
+  }
+.box{
+    display: none;
+    width: 100%;
+}
+
+a:hover + .box,.box:hover{
+    display: block;
+    position: relative;
+    z-index: 100;
+}
+body#gsr.hp.vasq{
+    background-image: url("");
+   }
+   div.gb_xe.gb_R.gb_Me.gb_Ee {
+    font-weight: bold;
+    font-size: 15px;
+   }
+   
